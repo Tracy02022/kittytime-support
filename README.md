@@ -31,4 +31,4 @@ If you need help or want to send feedback, contact us at:
 
 ## 🔒 Privacy Policy
 
-We care deeply about your privacy. See our full [Privacy Policy](https://yourusername.github.io/kittytime-support/privacy.html) for more information.
+We care deeply about your privacy. See our full [Privacy Policy](https://tracy02022.github.io/kittytime-support/privacy.html) for more information.
