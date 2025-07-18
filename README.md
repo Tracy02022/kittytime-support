@@ -25,7 +25,7 @@ A: As long as you use the same login, your data will be safely synced from the c
 ## 📧 Contact
 
 If you need help or want to send feedback, contact us at:  
-📮 **kittytime.support@gmail.com**
+📮 **kittytime.helpdesk@gmail.com**
 
 ---
 
